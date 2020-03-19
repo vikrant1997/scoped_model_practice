@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:scoped_model_practice/ui/home_view.dart';
+import 'package:scoped_model_practice/ui/views/home_view.dart';
 import 'service_locator.dart';
 
 void main() {
